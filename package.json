@@ -1,0 +1,23 @@
+{
+  "name": "that-api-schema",
+  "version": "1.0.0",
+  "description": "Shared schema bits between services (e.g enums)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatConference/that-api-schema.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatConference/that-api-schema/issues"
+  },
+  "homepage": "https://github.com/ThatConference/that-api-schema#readme",
+  "dependencies": {
+    "@graphql-tools/merge": "^6.2.6"
+  }
+}

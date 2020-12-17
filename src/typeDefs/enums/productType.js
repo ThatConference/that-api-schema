@@ -9,4 +9,4 @@ const productTypeEnum = `
   }
 `;
 
-export default mergeTypeDefs(productTypeEnum);
+export default mergeTypeDefs([productTypeEnum]);

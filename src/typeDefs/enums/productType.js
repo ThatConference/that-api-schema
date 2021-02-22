@@ -6,6 +6,7 @@ const productTypeEnum = `
     MEMBERSHIP
     PARTNERSHIP
     FOOD
+    COUPON
   }
 `;
 

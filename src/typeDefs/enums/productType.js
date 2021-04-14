@@ -7,7 +7,7 @@ const productTypeEnum = `
     PARTNERSHIP
     FOOD
     COUPON
-    WORKSHOP
+    TRAINING
     FAMILY
   }
 `;

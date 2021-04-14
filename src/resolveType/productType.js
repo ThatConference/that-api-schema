@@ -16,8 +16,8 @@ export default function resolveTypeProductType(type) {
     case 'COUPON':
       result = 'Coupon';
       break;
-    case 'WORKSHOP':
-      result = 'Workshop';
+    case 'TRAINING':
+      result = 'Training';
       break;
     case 'FAMILY':
       result = 'Family';

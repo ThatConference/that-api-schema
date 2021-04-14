@@ -8,6 +8,7 @@ const productTypeEnum = `
     FOOD
     COUPON
     WORKSHOP
+    FAMILY
   }
 `;
 

@@ -19,6 +19,9 @@ export default function resolveTypeProductType(type) {
     case 'WORKSHOP':
       result = 'Workshop';
       break;
+    case 'FAMILY':
+      result = 'Family';
+      break;
     default:
       throw new Error(`Resolver encountered unknown product type ${type}`);
   }

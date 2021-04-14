@@ -16,6 +16,9 @@ export default function resolveTypeProductType(type) {
     case 'COUPON':
       result = 'Coupon';
       break;
+    case 'WORKSHOP':
+      result = 'Workshop';
+      break;
     default:
       throw new Error(`Resolver encountered unknown product type ${type}`);
   }

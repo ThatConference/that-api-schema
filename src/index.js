@@ -1,7 +1,7 @@
 import productTypeEnumDoc from './typeDefs/enums/productType';
-import bufferSocialProfiles from './typeDefs/enums/bufferSocialProfiles';
+import bufferSocialProfile from './typeDefs/enums/bufferSocialProfile';
 import resolveTypeImpl from './resolveType';
 
 export const productTypeEnum = productTypeEnumDoc;
-export const bufferSocialProfilesEnum = bufferSocialProfiles;
+export const bufferSocialProfileEnum = bufferSocialProfile;
 export const resolveType = resolveTypeImpl;

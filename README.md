@@ -1,5 +1,7 @@
 # that-api-schema
 
+> **Warning**: This is v3 of `that-api-schema`. It's intended use is with Apollo server version 3. It is not compatible with Apollo server v2. V1 of this library is [here](https://github.com/ThatConference/that-api/tree/v1). (There is no v2 of this library) ⚠
+
 Shared schema bits between entity services (e.g enums)
 
 @thatconference/schema
